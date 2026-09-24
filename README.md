@@ -9,6 +9,7 @@ index.html        Marcado de la página
 css/styles.css    Estilos (variables de diseño, layout y responsive)
 js/main.js        Menú móvil, animaciones de entrada y validación del formulario
 assets/logo.svg   Logotipo / favicon
+assets/img/       Fotografías (WebP optimizado)
 ```
 
 Es HTML, CSS y JavaScript sin dependencias ni paso de compilación. Para verla, abre `index.html` en el navegador o sirve la carpeta:
@@ -49,4 +50,4 @@ Tipografías: **Fraunces** (títulos) y **Hanken Grotesk** (texto), de Google Fo
 
 ## Pendiente de completar
 
-Los textos entre corchetes (`[FECHA]`, `[TELÉFONO]`, `[DIRECCIÓN DEL CENTRO]`…) son datos reales del centro que hay que sustituir. Las zonas rayadas son huecos para fotografías y para el mapa. El formulario valida en el navegador; el envío real (CRM o endpoint) se conecta en `js/main.js`, donde está marcado con un comentario.
+Los textos entre corchetes (`[FECHA]`, `[TELÉFONO]`, `[DIRECCIÓN DEL CENTRO]`…) son datos reales del centro que hay que sustituir. La zona rayada del contacto es el hueco para el mapa del centro. El formulario valida en el navegador; el envío real (CRM o endpoint) se conecta en `js/main.js`, donde está marcado con un comentario.
