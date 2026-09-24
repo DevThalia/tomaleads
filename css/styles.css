@@ -242,7 +242,7 @@ h2 {
 
 /* ---------- Hero ---------- */
 
-.hero { padding-block: clamp(40px, 6vw, 88px) clamp(40px, 5vw, 72px); }
+.hero { padding-block: clamp(40px, 6vw, 88px) clamp(56px, 7vw, 104px); }
 
 .hero h1 .eyebrow {
   display: block;
@@ -582,35 +582,6 @@ h2 {
   font-weight: 600;
 }
 
-/* ---------- Cifras ---------- */
-
-.facts { padding-bottom: clamp(56px, 7vw, 96px); }
-.facts-grid {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 24px;
-  margin: 0;
-  border-top: 1.5px solid var(--ink);
-}
-.fact {
-  display: flex;
-  flex-direction: column-reverse;
-  justify-content: flex-end;
-  gap: 8px;
-  padding-top: 28px;
-}
-.fact dt { max-width: 24ch; font-size: 16px; line-height: 1.45; color: var(--muted); }
-.fact dd {
-  margin: 0;
-  font-family: var(--font-display);
-  font-size: clamp(34px, 3.9vw, 56px);
-  font-weight: 600;
-  line-height: 1;
-  letter-spacing: -0.02em;
-  font-variant-numeric: tabular-nums;
-  white-space: nowrap;
-}
-
 /* ---------- Calculadora de curso ---------- */
 
 .section-sun { background: var(--sun); color: var(--ink); }
@@ -890,7 +861,6 @@ h2 {
   .finder,
   .faq { grid-template-columns: minmax(0, 1fr); }
 
-  .facts-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .faq-intro { position: static; }
 
   .mobile-cta {
@@ -930,9 +900,6 @@ h2 {
   .project-photo { height: 220px; }
   .gallery { grid-template-columns: minmax(0, 1fr); gap: 16px; margin-bottom: 40px; }
   .gallery figure { height: 260px; }
-  .facts-grid { gap: 8px 16px; }
-  .fact dd { font-size: 34px; }
-  .fact dt { font-size: 15px; }
   .journey-labels { font-size: 11px; }
   .year-step { width: 48px; height: 48px; }
   .faq-item summary { min-height: 64px; }

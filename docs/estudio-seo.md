@@ -61,7 +61,7 @@ Ninguno responde a las búsquedas informativas sobre cursos y plazos. Ahí es do
 ### Contenido y estructura
 
 - **`title`** (53 caracteres): `Colegio bilingüe en Pozuelo de Alarcón | Colegio Alba`.
-- **Meta description** (152 caracteres): menciona la zona, las etapas, el ratio, los servicios y termina con una llamada a la acción.
+- **Meta description** (141 caracteres): menciona la zona, las etapas, los grupos pequeños y los servicios, y termina con una llamada a la acción.
 - **Un único H1**, con la palabra clave principal dentro ("Colegio bilingüe en Pozuelo · De 1 año a Bachillerato") y el lema del colegio.
 - **Encabezados** H2 y H3 ordenados por secciones: etapas, calculadora, proyecto, servicios, admisiones, preguntas frecuentes y contacto.
 - **Sección de preguntas frecuentes** con cinco preguntas reales de familias. Cubre búsquedas largas como "privado o concertado", "plazo de admisión" o "horario".

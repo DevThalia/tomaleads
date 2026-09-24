@@ -25,14 +25,13 @@ python3 -m http.server 8000
 ## Secciones
 
 1. **Portada:** propuesta de valor, botones de visita y fecha de la jornada de puertas abiertas.
-2. **Cifras:** fundación, alumnos por aula, idiomas y tamaño del campus.
-3. **Etapas:** Infantil, Primaria, ESO y Bachillerato.
-4. **Calculadora de curso:** eliges el año de nacimiento y te dice en qué curso entraría en 2027–2028, en qué punto del recorrido escolar está y cuántos cursos le quedan. El botón final lleva al formulario con la etapa y un mensaje ya rellenados.
-5. **Proyecto educativo:** los cuatro pilares del colegio.
-6. **Servicios:** fotos del campus, comedor, horario ampliado, ruta escolar y extraescolares.
-7. **Admisiones:** plazo y proceso en tres pasos.
-8. **Preguntas frecuentes:** cinco dudas habituales, también marcadas como `FAQPage`.
-9. **Contacto:** dirección, teléfono, horario de secretaría, plano dibujado a medida y formulario con validación.
+2. **Etapas:** Infantil, Primaria, ESO y Bachillerato.
+3. **Calculadora de curso:** eliges el año de nacimiento y te dice en qué curso entraría en 2027–2028, en qué punto del recorrido escolar está y cuántos cursos le quedan. El botón final lleva al formulario con la etapa y un mensaje ya rellenados.
+4. **Proyecto educativo:** los cuatro pilares del colegio.
+5. **Servicios:** fotos del campus, comedor, horario ampliado, ruta escolar y extraescolares.
+6. **Admisiones:** plazo y proceso en tres pasos.
+7. **Preguntas frecuentes:** cinco dudas habituales, también marcadas como `FAQPage`.
+8. **Contacto:** dirección, teléfono, horario de secretaría, plano dibujado a medida y formulario con validación.
 
 En móvil aparece una barra fija con "Reservar visita" y un botón para llamar. Se esconde en la portada, en el contacto y en el pie.
 
