@@ -63,4 +63,4 @@ El detalle está en [`docs/estudio-seo.md`](docs/estudio-seo.md). Resumen de lo 
 - Contraste AA en textos y botones, y zonas táctiles de 44 px o más.
 - Formulario con `label` en cada campo y errores anunciados con `aria-live` y `aria-invalid`.
 - La calculadora anuncia el curso resultante a los lectores de pantalla.
-- Respeta `prefers-reduced-motion`.
+- Respeta `prefers-reduced-motion`
